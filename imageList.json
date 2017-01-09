@@ -2,6 +2,9 @@
 	"images": [
 		{
 			"name": "ned-logo"
+		},
+		{
+			"name": "the125-logo"
 		}
 	]
 }
