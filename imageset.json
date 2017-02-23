@@ -1,1 +1,16 @@
-{}
+{
+	"sourceDirectory": "src",
+	"scheme": "specialisttitle",
+	"images": [
+		{
+			"name": "ned-logo",
+			"extension": "svg",
+			"path": "src/ned-logo.svg"
+		},
+		{
+			"name": "the125-logo",
+			"extension": "svg",
+			"path": "src/the125-logo.svg"
+		}
+	]
+}
