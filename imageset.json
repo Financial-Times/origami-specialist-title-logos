@@ -3,14 +3,14 @@
 	"scheme": "specialisttitle",
 	"images": [
 		{
-			"name": "ned-logo",
-			"extension": "svg",
-			"path": "src/ned-logo.svg"
-		},
-		{
 			"name": "ned-logo-inverse",
 			"extension": "svg",
 			"path": "src/ned-logo-inverse.svg"
+		},
+		{
+			"name": "ned-logo",
+			"extension": "svg",
+			"path": "src/ned-logo.svg"
 		},
 		{
 			"name": "the125-logo",
