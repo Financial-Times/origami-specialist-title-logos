@@ -8,6 +8,11 @@
 			"path": "src/ned-logo.svg"
 		},
 		{
+			"name": "ned-logo-inverse",
+			"extension": "svg",
+			"path": "src/ned-logo-inverse.svg"
+		},
+		{
 			"name": "the125-logo",
 			"extension": "svg",
 			"path": "src/the125-logo.svg"
