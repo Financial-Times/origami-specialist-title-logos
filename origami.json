@@ -1,6 +1,7 @@
 
 {
-    "description": "Logos for Specialist Titles",
+    "description": "An collection of logos used by Specialist Titles, such as Investors Chronicle, Non-executive Directors' Club.",
+    "keywords": ["image", "images", "logo" ],
     "origamiType": "imageset",
     "origamiVersion": 1,
     "support": "https://github.com/Financial-Times/origami-specialist-title-logos/issues",
