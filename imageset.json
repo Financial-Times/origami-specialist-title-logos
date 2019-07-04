@@ -3,6 +3,20 @@
 	"scheme": "specialisttitle",
 	"images": [
 		{
+			"name": "board-director-programme-inverse",
+			"extension": "svg",
+			"path": "src/board-director-programme-inverse.svg",
+			"hash": "f253e6ef189c23404dac3020054781de937bfbb01307188ee20aea7f6aa4125d60ac5bd34e9a38228f65463452fb2bd9bf008ce698cfa5df41fb4ba6aeb2a1e3",
+			"url": "https://origami-images.ft.com/specialisttitle/v1/board-director-programme-inverse-f253e6ef189c23404dac3020054781de937bfbb01307188ee20aea7f6aa4125d60ac5bd34e9a38228f65463452fb2bd9bf008ce698cfa5df41fb4ba6aeb2a1e3"
+		},
+		{
+			"name": "board-director-programme",
+			"extension": "svg",
+			"path": "src/board-director-programme.svg",
+			"hash": "88f3069e7f2bf1892430b3d8e153b91e42cf71497c28aa79e39de912627e89d8c594f909671f88a48640cd857dee24d37c6df39b1798aef10b02cafe89c1a827",
+			"url": "https://origami-images.ft.com/specialisttitle/v1/board-director-programme-88f3069e7f2bf1892430b3d8e153b91e42cf71497c28aa79e39de912627e89d8c594f909671f88a48640cd857dee24d37c6df39b1798aef10b02cafe89c1a827"
+		},
+		{
 			"name": "brand-live-ft-logo",
 			"extension": "svg",
 			"path": "src/brand-live-ft-logo.svg",
