@@ -1,4 +1,4 @@
-# Specialist title logos [![Build status](https://img.shields.io/circleci/project/Financial-Times/origami-specialist-title-logos.svg)](https://circleci.com/gh/Financial-Times/origami-specialist-title-logos)
+# Specialist title logos
 
 An image set of logos used by Specialist Titles (eg Investors Chronicle, Non-executive Directors' Club)
 
