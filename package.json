@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/origami-specialist-title-logos",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "engines": {
     "node": "^10"
   },
