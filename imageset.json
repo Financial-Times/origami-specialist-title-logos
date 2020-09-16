@@ -19,6 +19,13 @@
 			"url": "https://origami-images.ft.com/specialisttitle/v1/board-director-programme-88f3069e7f2bf1892430b3d8e153b91e42cf71497c28aa79e39de912627e89d8c594f909671f88a48640cd857dee24d37c6df39b1798aef10b02cafe89c1a827"
 		},
 		{
+			"name": "brand-live-ft-logo-inverse",
+			"extension": "svg",
+			"path": "src/brand-live-ft-logo-inverse.svg",
+			"hash": "f88262d141c9e009a7372ef1ad60080ab36a889eb1314368a2e4b6c5c66ee6d8db165b6c8fa018706a14d1a7fa994a3757860eb56115f6d6c331a7acc8916fbe",
+			"url": "https://origami-images.ft.com/specialisttitle/v1/brand-live-ft-logo-inverse-f88262d141c9e009a7372ef1ad60080ab36a889eb1314368a2e4b6c5c66ee6d8db165b6c8fa018706a14d1a7fa994a3757860eb56115f6d6c331a7acc8916fbe"
+		},
+		{
 			"name": "brand-live-ft-logo",
 			"extension": "svg",
 			"path": "src/brand-live-ft-logo.svg",
