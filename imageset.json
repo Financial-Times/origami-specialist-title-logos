@@ -28,12 +28,12 @@
 		},
 		{
 			"name": "brand-live-ft-logo",
-			"deprecated": "This is deprecated and replaced by brand-live-ft-logo-inverse",
 			"extension": "svg",
 			"path": "src/brand-live-ft-logo.svg",
 			"previousHash": "5f3dd7fb9e3812e7632e2af27e44be2e857a69a6cebcbb1efae575dd6c225efa65936481d5ea152d1fbaa0f7dd0d829ee7736e932a0e7f4871ca7cab2225ad55",
 			"hash": "5f3dd7fb9e3812e7632e2af27e44be2e857a69a6cebcbb1efae575dd6c225efa65936481d5ea152d1fbaa0f7dd0d829ee7736e932a0e7f4871ca7cab2225ad55",
-			"url": "https://origami-images.ft.com/specialisttitle/v1/brand-live-ft-logo-5f3dd7fb9e3812e7632e2af27e44be2e857a69a6cebcbb1efae575dd6c225efa65936481d5ea152d1fbaa0f7dd0d829ee7736e932a0e7f4871ca7cab2225ad55"
+			"url": "https://origami-images.ft.com/specialisttitle/v1/brand-live-ft-logo-5f3dd7fb9e3812e7632e2af27e44be2e857a69a6cebcbb1efae575dd6c225efa65936481d5ea152d1fbaa0f7dd0d829ee7736e932a0e7f4871ca7cab2225ad55",
+			"deprecated": "This is deprecated and replaced by brand-live-ft-logo-inverse"
 		},
 		{
 			"name": "ned-logo-inverse",
