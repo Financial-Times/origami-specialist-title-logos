@@ -36,6 +36,20 @@
 			"deprecated": "This is deprecated and replaced by brand-live-ft-logo-inverse"
 		},
 		{
+			"name": "forums-logo-inverse",
+			"extension": "svg",
+			"path": "src/forums-logo-inverse.svg",
+			"hash": "31feca2da5c3b696a44f1f833eb6e8f93ee78879ec06ff2d5aa6aeb76c5fa5ca43a40505efeb7246b14ac5fa36305cc727bdcbe1ef36816b4b0cd0c14acbd76c",
+			"url": "https://origami-images.ft.com/specialisttitle/v1/forums-logo-inverse-31feca2da5c3b696a44f1f833eb6e8f93ee78879ec06ff2d5aa6aeb76c5fa5ca43a40505efeb7246b14ac5fa36305cc727bdcbe1ef36816b4b0cd0c14acbd76c"
+		},
+		{
+			"name": "forums-logo",
+			"extension": "svg",
+			"path": "src/forums-logo.svg",
+			"hash": "c04c44b54a36e58a66d4139b505b45635abafe992dcc32ecea842f98df63a5c621daee294e66b03bb9aa9596511226063df3542a8288f317c3c3dccdb9603623",
+			"url": "https://origami-images.ft.com/specialisttitle/v1/forums-logo-c04c44b54a36e58a66d4139b505b45635abafe992dcc32ecea842f98df63a5c621daee294e66b03bb9aa9596511226063df3542a8288f317c3c3dccdb9603623"
+		},
+		{
 			"name": "ned-logo-inverse",
 			"extension": "svg",
 			"path": "src/ned-logo-inverse.svg",
